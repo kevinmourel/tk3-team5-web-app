@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "nama": "Robot",
+      "deskripsi": "Robot bagus sekali dan canggih",
+      "hargaBeli": "1000",
+      "hargaJual": "10000",
+      "foto": "blob:http://localhost:3000/bf7589c9-3c39-4256-93c3-28143c3fbbda",
+      "id": 1
+    }
+  ]
+}

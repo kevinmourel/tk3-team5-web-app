@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": "11",
+            "email": "test@mailinator.com",
+            "password" : "test"
+            
+        }, 
+        {
+            "id": "22",
+            "email": "test2@mailinator.com",
+            "password" : "test2"
+            
+        }
+    ]
+}
